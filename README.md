@@ -58,27 +58,22 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b" width="300" height="300" title="Átomo"><br><br>
 <hr>
+- **Molécula  &  Organismo**
 
-- **Molécula**
-
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Átomo"><br><br>
-<hr>
-
-- **Organismo**
-
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Átomo">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/236e93a3-71d0-4687-94ba-482017812a3e" width="300" height="700" title="Átomo"><br><br>
 <hr>
 
-- **Template**
+- **Template  &  Página**
 
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259" width="300" height="600" title="Átomo"><br><br>
-<hr>
-
-- **Página**
-
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259" width="300" height="600" title="Átomo">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/33e42ec5-d782-43eb-a623-98fd9014b5f9" width="300" height="600" title="Átomo"><br><br>
 <hr>
 
+## Protótipo de Baixa Fidelidade
+
+![Prótotipo de Baixa Fidelidade](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/91149e6d-01b4-4ef8-834c-310ffa662768)
+![Prótotipo de Baixa Fidelidade (1)](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/57bebf53-e20f-499f-8fb2-a48847e03cb3)
 
 
  ## Documentação de cores
