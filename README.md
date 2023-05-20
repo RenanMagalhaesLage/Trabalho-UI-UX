@@ -36,13 +36,13 @@ A Jornada do Usuário é um mapa visual de todas as etapas desse relacionamento 
 ![Átomos](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b)
 <div align="center">
  <br>
- <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/2c2c2ecf-d097-43ec-b9ea-d031744fb6fa" width="700" height="500" title="Jornada de Usuário 1"><br>
+ <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/2c2c2ecf-d097-43ec-b9ea-d031744fb6fa" width="804" height="500" title="Jornada de Usuário 1"><br>
  <br>
  <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/06bcda0e-b8e3-4684-8a97-589a0d943de3" width="700" height="500" title="Jornada de Usuário 2"><br>
  <br>
- <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/16d3be15-1c91-4d5d-9fd9-dd49697a5b41" width="700" height="500" title="Jornada de Usuário 3"><br>
+ <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/16d3be15-1c91-4d5d-9fd9-dd49697a5b41" width="812" height="539" title="Jornada de Usuário 3"><br>
  <br>
- <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/43f27aff-e77a-435a-be27-d96e6ca52172" width="700" height="500" title="Jornada de Usuário 4"><br>
+ <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/43f27aff-e77a-435a-be27-d96e6ca52172"  title="Jornada de Usuário 4"><br>
 </div>
 
 ## Logo
@@ -56,24 +56,28 @@ Para a nossa empresa hipotética iremos utilizar a seguinte logo
 Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipotético a partir do modelo atômico, uma metodologia que auxilia na categorização e padronização de elementos de uma interface, e por consequência, na criação de um Design Systems, Style Guides e documentações em geral.
 - **Átomo**
 
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b" width="300" height="300" title="Átomo"><br>
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b" width="300" height="300" title="Átomo"><br><br>
+<hr>
 
 - **Molécula**
 
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="500" title="Átomo"><br>
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Átomo"><br><br>
+<hr>
 
 - **Organismo**
 
-![Organismos](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/236e93a3-71d0-4687-94ba-482017812a3e)
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/236e93a3-71d0-4687-94ba-482017812a3e" width="300" height="700" title="Átomo"><br><br>
+<hr>
 
 - **Template**
 
-![Template](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259)
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259" width="300" height="600" title="Átomo"><br><br>
+<hr>
 
 - **Página**
 
-![Página](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/33e42ec5-d782-43eb-a623-98fd9014b5f9)
-
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/33e42ec5-d782-43eb-a623-98fd9014b5f9" width="300" height="600" title="Átomo"><br><br>
+<hr>
 
 
 
