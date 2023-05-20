@@ -8,7 +8,7 @@ Trabalho realizado na disciplina Princípios de UI/UX: teoria e prática em desi
 ## Objetivo
 Elaborar um aplicativo hipotético para aplicar os conhecimentos dos processos envolvidos na carreira de UI/UX aprendidos ao longo disciplina.
 
-## Execuheightção
+## Execução
 O **Green Menu** é um restaurante delivery de refeições saudáveis, que utiliza alimentos orgânicos e naturais. Temos o como público alvo, pessoas que procuram praticar hábitos alimentares saudáveis. Esse serviço é essencial pois, hoje em dia, devido à rotinas exaustivas, as pessoas recorrem à praticidade e optam por opções de fácil e rápido acesso, como alimentos industrializados, fast foods e de baixo valor nutritivo. Assim, esse serviço vem de contrapartida oferecendo uma opção saborosa, saudável e de fácil acesso. Como é um restaurante delivery, possuirá um aplicativo e uma página web, em que o consumidor poderá acessar de onde estiver, seja no trabalho, seja na faculdade ou seja em casa. O funcionamento desse aplicativo será através de um cardápio com opções montadas, seja refeições para almoço/jantar e opções para lanches. 
 
 Realizamos uma pesquisa de usuário para projetar a experiência do usuário no nosso aplicativo hipotético. Dessa forma, poderemos construir a partir das respostas, um aplicativo de qualidade com uma boa interface, atentendo os requisitos constatados nas respostas da entrevista.
