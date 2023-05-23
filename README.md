@@ -58,6 +58,7 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b" width="300" height="300" title="Átomo"><br><br>
 <hr>
+
 - **Molécula  &  Organismo**
 
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Átomo">
