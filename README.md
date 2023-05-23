@@ -33,7 +33,6 @@ A partir das respostas obtidas da pesquisa de usuário, foi possível criar as p
 </div>
 ## Jornadas do Usuário
 A Jornada do Usuário é um mapa visual de todas as etapas desse relacionamento do cliente com o que as empresas oferecem. Ela descreve o passo a passo percorrido, detalhando todos os pontos de contato e interações do ponto de vista do usuário, seus sentimentos e sensações em cada fase.
-![Átomos](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b)
 <div align="center">
  <br>
  <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/2c2c2ecf-d097-43ec-b9ea-d031744fb6fa" width="804" height="500" title="Jornada de Usuário 1"><br>
