@@ -48,7 +48,7 @@ A Jornada do Usuário é um mapa visual de todas as etapas desse relacionamento 
 ## Logo
 Para a nossa empresa hipotética iremos utilizar a seguinte logo
 <div align="center">
- <img src="https://user-images.githubusercontent.com/89847080/229195867-6f8d4f8c-9d13-4f45-b10f-8626cd31d707.png" width="350" title="LOgo">
+ <img src="https://user-images.githubusercontent.com/89847080/229195867-6f8d4f8c-9d13-4f45-b10f-8626cd31d707.png" width="350" title="Logo">
 </div>
 
 
@@ -61,14 +61,14 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 
 - **Molécula  &  Organismo**
 
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Átomo">
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/236e93a3-71d0-4687-94ba-482017812a3e" width="300" height="700" title="Átomo"><br><br>
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Molécula">
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/236e93a3-71d0-4687-94ba-482017812a3e" width="300" height="700" title="Organismo"><br><br>
 <hr>
 
 - **Template  &  Página**
 
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259" width="300" height="600" title="Átomo">
-<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/33e42ec5-d782-43eb-a623-98fd9014b5f9" width="300" height="600" title="Átomo"><br><br>
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259" width="300" height="600" title="Template">
+<img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/33e42ec5-d782-43eb-a623-98fd9014b5f9" width="300" height="600" title="Página"><br><br>
 <hr>
 
 ## Protótipo de Baixa Fidelidade
