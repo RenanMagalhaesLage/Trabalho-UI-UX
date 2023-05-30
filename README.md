@@ -79,7 +79,7 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 ## Wireframes
 
 ![Wireframe Mobile](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/9a2a5074-29b9-46fa-9ed8-668068793ef6)
-![Wireframe](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/b0463fe8-5e5e-4fc0-8cea-fd5b3aa63a48)
+![Wireframe](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/32caf893-2d6c-427a-b73d-dd560856d1db)
 
 
  ## Documentação de cores
