@@ -73,8 +73,13 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 
 ## Protótipo de Baixa Fidelidade
 
-![Prótotipo de Baixa Fidelidade](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/91149e6d-01b4-4ef8-834c-310ffa662768)
-![Prótotipo de Baixa Fidelidade (1)](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/57bebf53-e20f-499f-8fb2-a48847e03cb3)
+![Prótotipo de Baixa Fidelidade Mobile](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/93514031-171c-4b0e-b610-fb570eb0f339)
+![Prótotipo de Baixa Fidelidade](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/40a14fcb-6d56-4450-8126-67541b9ed537)
+
+## Wireframes
+
+![Wireframe Mobile](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/9a2a5074-29b9-46fa-9ed8-668068793ef6)
+![Wireframe](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/b0463fe8-5e5e-4fc0-8cea-fd5b3aa63a48)
 
 
  ## Documentação de cores
