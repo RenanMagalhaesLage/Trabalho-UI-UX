@@ -91,3 +91,9 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 | Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
+## Style Guide
+
+## Protótipo de Média Fidelidade
+
+## Protótipo de Alta Fidelidade
+
