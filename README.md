@@ -95,7 +95,6 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 
 ## Protótipo de Média Fidelidade
 
-https://www.figma.com/proto/eazZEqo9HxD89UOcye0Q9d/UIUX?type=design&node-id=93-370&scaling=min-zoom&page-id=89%3A1385&mode=design
 
 ## Protótipo de Alta Fidelidade
 
