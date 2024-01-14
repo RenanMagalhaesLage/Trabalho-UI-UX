@@ -9,6 +9,8 @@ Trabalho realizado na disciplina Princípios de UI/UX: teoria e prática em desi
 
 [Style Guide](https://github.com/RenanMagalhaesLage/Trabalho-UI-UX?tab=readme-ov-file#style-guide)
 
+[Protótipos de Alta Fidelidade](https://github.com/RenanMagalhaesLage/Trabalho-UI-UX?tab=readme-ov-file#prot%C3%B3tipo-de-alta-fidelidade)
+
 ## Objetivo
 Elaborar um aplicativo hipotético para aplicar os conhecimentos dos processos envolvidos na carreira de UI/UX aprendidos ao longo disciplina.
 
