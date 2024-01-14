@@ -5,6 +5,10 @@
 #### Universidade Federal de Alfenas - UNIFAL
 Trabalho realizado na disciplina Princípios de UI/UX: teoria e prática em design de software 
 
+## Atalhos
+
+[Style Guide](https://github.com/RenanMagalhaesLage/Trabalho-UI-UX?tab=readme-ov-file#style-guide)
+
 ## Objetivo
 Elaborar um aplicativo hipotético para aplicar os conhecimentos dos processos envolvidos na carreira de UI/UX aprendidos ao longo disciplina.
 
