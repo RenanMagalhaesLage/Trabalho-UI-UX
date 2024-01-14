@@ -48,28 +48,32 @@ A Jornada do Usuário é um mapa visual de todas as etapas desse relacionamento 
 ## Logo
 Para a nossa empresa hipotética iremos utilizar a seguinte logo
 <div align="center">
- <img src="https://user-images.githubusercontent.com/89847080/229195867-6f8d4f8c-9d13-4f45-b10f-8626cd31d707.png" width="350" title="Logo">
+ <img src="https://github.com/RenanMagalhaesLage/Trabalho-UI-UX/assets/89847080/91cf9a2c-6eae-4d49-b43b-83cb5fd05099" width="350" title="Logo">
 </div>
+
 
 
 ## Atomic Design
 Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipotético a partir do modelo atômico, uma metodologia que auxilia na categorização e padronização de elementos de uma interface, e por consequência, na criação de um Design Systems, Style Guides e documentações em geral.
 - **Átomo**
 
+<div align="center">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/f98938d7-0e39-4363-a523-d2f043fe015b" width="300" height="300" title="Átomo"><br><br>
-<hr>
+<hr></div>
 
 - **Molécula  &  Organismo**
 
+<div align="center">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/587cd503-4cfc-4c8f-9372-cf661c4e7983" width="300" height="700" title="Molécula">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/236e93a3-71d0-4687-94ba-482017812a3e" width="300" height="700" title="Organismo"><br><br>
-<hr>
+<hr></div>
 
 - **Template  &  Página**
 
+<div align="center">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/83bf55c7-d0a4-40e4-932b-efc2dc835259" width="300" height="600" title="Template">
 <img src="https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/33e42ec5-d782-43eb-a623-98fd9014b5f9" width="300" height="600" title="Página"><br><br>
-<hr>
+<hr></div>
 
 ## Protótipo de Baixa Fidelidade
 
@@ -82,19 +86,14 @@ Desenvolvemos um esboço do padrão de estruturas para a home do aplicativo hipo
 ![Wireframe](https://github.com/RenannLage/Trabalho-UI-UX/assets/89847080/32caf893-2d6c-427a-b73d-dd560856d1db)
 
 
- ## Documentação de cores
-
-| Cor               | Hexadecimal                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
 ## Style Guide
 
-## Protótipo de Média Fidelidade
+[Link para o projeto no Figma](https://www.figma.com/file/eazZEqo9HxD89UOcye0Q9d/UIUX?type=design&node-id=61%3A2&mode=dev)
 
 
-## Protótipo de Alta Fidelidade
+## Protótipo de Alta Fidelidade 
+
+[Mobile](https://www.figma.com/proto/eazZEqo9HxD89UOcye0Q9d/UIUX?type=design&node-id=375-1521&t=mW9DLndizTGDxYNj-1&scaling=scale-down&page-id=89%3A1386&starting-point-node-id=375%3A1521&mode=design)
+
+[Desktop](https://www.figma.com/proto/eazZEqo9HxD89UOcye0Q9d/UIUX?type=design&node-id=353-1669&t=WmVPtQ64TxdXu2bW-1&scaling=min-zoom&page-id=89%3A1385&starting-point-node-id=353%3A1669&mode=design)
 
